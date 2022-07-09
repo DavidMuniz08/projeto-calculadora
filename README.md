@@ -1,1 +1,3 @@
 # projeto-calculadora
+
+Esse foi os meus primeiros passos dentro do JavaScript...
